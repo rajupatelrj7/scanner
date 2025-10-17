@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Vulnerability Scanner",
+  "description": "A web application that simulates a vulnerability scan on a given URL using Gemini to identify potential security weaknesses, similar to tools like Burp Suite or OWASP ZAP.",
+  "requestFramePermissions": []
+}
